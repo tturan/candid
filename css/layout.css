@@ -35,14 +35,19 @@ img {
 }
 
 p{
-  font-size: 12px;
+  font-size: 14px;
+}
+
+.grid_1{
+  margin-bottom: 15px;
 }
 
 .box .grid_5 {
   margin-top: 75px;
 }
 
- .grid12 img{
+.grid_4 {
+   margin-top: 120px;
  }
 
 .footer{
