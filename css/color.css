@@ -2,7 +2,7 @@
   box-sizing: border-box; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Courier, Arial, serif;
   font-size: 14px;
   line-height: 1.5;
   color: #000;
@@ -20,11 +20,12 @@ a:hover {
 }
 
 .heading {
-  background-color: #999;
+  background-color: #000;
 }
 
 h1{
-    color: #ccc;
+    color: #000;
+    font-style: italic;
 }
 
 h1 small {
@@ -41,7 +42,6 @@ h1 small {
 }
 
 .footer {
-  background-color: #999;
-  color: #fff;
+  color: #000;
   font-style: italic;
 }

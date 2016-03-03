@@ -2,6 +2,7 @@
 
 body{
   padding: 80px;
+  background-image: url(http://i.imgur.com/D0Bm6cq.jpg);
 }
 
 .heading{
@@ -10,15 +11,16 @@ body{
   top:0;
   left:0;
   padding: 0px 20px;
+  background-image: inherit;
 }
 
-.box{
-  padding: 15px;
+.box {
+  padding: 10px;
+  margin-top: 25px;
 }
 
 img {
   width: 100%;
-  margin-bottom: 10px;
 }
 
 .box h2{
@@ -35,3 +37,25 @@ img {
 p{
   font-size: 12px;
 }
+
+.box .grid_5 {
+  margin-top: 75px;
+}
+
+ .grid12 img{
+ }
+
+.footer{
+  background-image: url(http://i.imgur.com/D0Bm6cq.jpg);
+}
+
+ /*modal*/
+ .modal {
+     max-width: 800px;
+     min-width: 300px;
+     width: auto;
+ }
+
+ .modal img {
+   width: 100%;
+ }
