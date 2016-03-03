@@ -6,7 +6,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #000;
-  background-color: #ccc;
+  background-color: #000;
 }
 
 a {
@@ -23,8 +23,12 @@ a:hover {
   background-color: #999;
 }
 
+h1{
+    color: #ccc;
+}
+
 h1 small {
-  color: #333;
+  color: #ccc;
   font-size: .6em;
 }
 
